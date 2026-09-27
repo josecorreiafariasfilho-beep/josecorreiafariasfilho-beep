@@ -1,6 +1,6 @@
 # Hi, I'm José Correia de Farias Filho 👋
 
-### Economics MSc Student | Data Analyst | Econometrics
+### Economist | Economics MSc Student | Data Analyst | Econometrics
 
 I work with data analysis, applied economics and econometrics using Python, R and Stata.
 
