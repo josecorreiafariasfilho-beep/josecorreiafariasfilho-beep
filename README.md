@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm José Correia de Farias Filho 👋
 
-<!--
-**josecorreiafariasfilho-beep/josecorreiafariasfilho-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Economics MSc Student | Data Analyst | Econometrics
 
-Here are some ideas to get you started:
+I work with data analysis, applied economics and econometrics using Python, R and Stata.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests include:
+
+- Data Cleaning and Exploratory Data Analysis
+- Econometrics and Causal Inference
+- Panel Data
+- Impact Evaluation
+- Economic and Municipal Data
+- Python, R and Stata
+
+## Featured Project
+
+### Brazilian Municipal BNDES Data Analysis
+
+End-to-end data cleaning, validation, transformation and exploratory analysis of more than 3.5 million Brazilian BNDES financing records.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib and Jupyter Notebook.
+
+➡️ [View project](https://github.com/josecorreiafariasfilho-beep/brazilian-municipal-data-analysis)
+
+## Currently Building
+
+I'm expanding my portfolio with projects focused on business data analysis, statistical modeling and applied econometrics.
